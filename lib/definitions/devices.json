@@ -4101,6 +4101,24 @@
       }
     }
   },
+  "SMARELIO": {
+    "Protect": {
+      "EEP": ["A5-14-03"],
+      "autocreate": true,
+      "teachin_method": "4BS",
+      "id_offset": false,
+      "help": {
+        "en": {
+          "1": "Click on 'Add Device'.",
+          "2": "Start teach-in mode on SMARELIO Protect. For more information, please read the SMARELIO Protect manual."
+        },
+        "de": {
+          "1": "Auf 'Gerät Hinzufügen' klicken.",
+          "2": "Anlernmodus am SMARELIO Protect starten. Für weitere informationen bitte die Anleitung des SMARELIO Protect lesen."
+        }
+      }
+    }
+  },
   "SODA": {
     "S8": {
       "EEP": [
